@@ -1,9 +1,3 @@
-
-# coding: utf-8
-
-# In[7]:
-
-
 import html5lib
 import requests
 import re
